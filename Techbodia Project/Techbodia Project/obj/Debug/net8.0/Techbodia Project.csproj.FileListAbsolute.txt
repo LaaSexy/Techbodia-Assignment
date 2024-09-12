@@ -1,0 +1,14 @@
+D:\Learn ASP.NET\Techbodia Project\Techbodia Project\bin\Debug\net8.0\Techbodia Project.exe
+D:\Learn ASP.NET\Techbodia Project\Techbodia Project\bin\Debug\net8.0\Techbodia Project.deps.json
+D:\Learn ASP.NET\Techbodia Project\Techbodia Project\bin\Debug\net8.0\Techbodia Project.runtimeconfig.json
+D:\Learn ASP.NET\Techbodia Project\Techbodia Project\bin\Debug\net8.0\Techbodia Project.dll
+D:\Learn ASP.NET\Techbodia Project\Techbodia Project\bin\Debug\net8.0\Techbodia Project.pdb
+D:\Learn ASP.NET\Techbodia Project\Techbodia Project\obj\Debug\net8.0\Techbodia Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn ASP.NET\Techbodia Project\Techbodia Project\obj\Debug\net8.0\Techbodia Project.AssemblyInfoInputs.cache
+D:\Learn ASP.NET\Techbodia Project\Techbodia Project\obj\Debug\net8.0\Techbodia Project.AssemblyInfo.cs
+D:\Learn ASP.NET\Techbodia Project\Techbodia Project\obj\Debug\net8.0\Techbodia Project.csproj.CoreCompileInputs.cache
+D:\Learn ASP.NET\Techbodia Project\Techbodia Project\obj\Debug\net8.0\Techbodia Project.dll
+D:\Learn ASP.NET\Techbodia Project\Techbodia Project\obj\Debug\net8.0\refint\Techbodia Project.dll
+D:\Learn ASP.NET\Techbodia Project\Techbodia Project\obj\Debug\net8.0\Techbodia Project.pdb
+D:\Learn ASP.NET\Techbodia Project\Techbodia Project\obj\Debug\net8.0\Techbodia Project.genruntimeconfig.cache
+D:\Learn ASP.NET\Techbodia Project\Techbodia Project\obj\Debug\net8.0\ref\Techbodia Project.dll
